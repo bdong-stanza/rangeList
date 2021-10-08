@@ -1,0 +1,14 @@
+{
+  "name": "rangelist",
+  "version": "1.0.0",
+  "description": "jerry ai coding challenge",
+  "main": "src/rangeList.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anzhe Dong",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.5"
+  }
+}
